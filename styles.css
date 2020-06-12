@@ -31,7 +31,6 @@ li {
 
 a {
 	color: inherit;
-	text-decoration: inherit;
 	display: flex;
 	flex-direction: row;
 	align-items: flex-start;
