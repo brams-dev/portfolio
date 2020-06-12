@@ -1,0 +1,46 @@
+html {
+	font-size: 10px;
+}
+
+body {
+	background-color: black;
+	width: 100vw;
+	height: 100vh;
+	overflow: hidden;
+	padding: 0;
+	color: white;
+	font-family: 'Fira Mono', monospace;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+main {
+	max-width: 38rem;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+	font-size: 2.4rem;
+}
+
+li {
+	margin: 2rem 0;
+}
+
+a {
+	color: inherit;
+	text-decoration: inherit;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+}
+
+img {
+	margin: 0 2rem 0 0;
+}
+
+h1 {
+	font-size: 6rem;
+}
