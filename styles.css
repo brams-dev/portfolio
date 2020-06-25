@@ -39,6 +39,9 @@ a {
 
 img {
 	margin: 0 2rem 0 0;
+	height: 3.2rem;
+	width: 3.2rem;
+	object-fit: contain;
 }
 
 h1 {
